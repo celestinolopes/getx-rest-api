@@ -1,4 +1,4 @@
-# bloc
+# GETX - CONSUMO DE API
 
 A new Flutter project.
 
